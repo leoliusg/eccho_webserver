@@ -57,8 +57,8 @@
     "multicast": "2022.02.0",
     "observer": "2021.10.0",
     "image": {
-      "core": "homeassistant/{machine}-homeassistant",
-      "supervisor": "homeassistant/{arch}-hassio-supervisor",
+      "core": "leoliusg/{machine}-homeassistant",
+      "supervisor": "leoliusg/{arch}-hassio-supervisor",
       "cli": "homeassistant/{arch}-hassio-cli",
       "audio": "homeassistant/{arch}-hassio-audio",
       "dns": "homeassistant/{arch}-hassio-dns",
@@ -66,8 +66,8 @@
       "multicast": "homeassistant/{arch}-hassio-multicast"
     },
     "images": {
-      "core": "ghcr.io/home-assistant/{machine}-homeassistant",
-      "supervisor": "ghcr.io/home-assistant/{arch}-hassio-supervisor",
+      "core": "leoliusg/{machine}-homeassistant",
+      "supervisor": "leoliusg/{arch}-hassio-supervisor",
       "cli": "ghcr.io/home-assistant/{arch}-hassio-cli",
       "audio": "ghcr.io/home-assistant/{arch}-hassio-audio",
       "dns": "ghcr.io/home-assistant/{arch}-hassio-dns",
